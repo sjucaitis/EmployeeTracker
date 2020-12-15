@@ -45,6 +45,8 @@ This command-line application allows the user to:
 
   * View the total utilized budget of a department -- ie the combined salaries of all employees in that department
 
-Demo: ![](Demo.gif)
+Demo: 
+
+![](Demo.gif)
 
 
